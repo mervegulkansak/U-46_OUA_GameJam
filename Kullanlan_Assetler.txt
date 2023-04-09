@@ -1,0 +1,18 @@
+Kullanılan Assetler
+
+Harita: https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529
+Ana Karakter Robot: https://assetstore.unity.com/packages/tools/game-toolkits/third-person-controller-basic-locomotion-free-82048
+Vuruş Animasyonu (https://www.mixamo.com/#/?page=1&query=scare&type=Motion%2CMotionPack) dan alınmıştır.
+Kötü Adam: Animasyonları ile birlikte mixamo (https://www.mixamo.com/#/?page=1&type=Character) dan alınmıştır. 
+Brute/Dying&Unarmed walk forward
+Kadın: Animasyonları ile birlikte mixamo (https://www.mixamo.com/#/?page=1&type=Character) dan alınmıştır. 
+Sophie/Terrified
+Bilim insanı: https://creazilla.com/nodes/1795171-scientist-3d-model 
+Animasyon https://www.mixamo.com/#/?page=1&query=scare&type=Motion%2CMotionPack
+Kedi: https://free3d.com/3d-model/cat-v1--522281.html
+Sopa: https://assetstore.unity.com/packages/3d/props/weapons/baseball-bats-pack-102171
+Ses Efektleri: 
+Ana Menü: https://freesound.org/people/unfa/sounds/244266/
+Kedi: https://freesound.org/people/Counter-gamer/sounds/213889/
+Score: https://freesound.org/people/CJspellsfish/sounds/676401/
+Male Hurt: https://freesound.org/people/micahlg/sounds/413175/
